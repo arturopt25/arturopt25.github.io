@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "language": "es",
+    "title": "Victor Parra — Desarrollador Fullstack con foco Frontend",
+    "description": "Ingeniero en Computación y desarrollador fullstack con más de 8 años creando productos web escalables, interfaces pulidas y flujos de entrega remota.",
+    "siteUrl": "https://arturopt25.github.io",
+    "github": "https://github.com/arturopt25",
+    "linkedin": "https://linkedin.com/in/victorpt25",
+    "email": "arturopt25@gmail.com"
+  },
+  "ui": {
+    "skipLink": "Saltar al contenido",
+    "loading": "Cargando perfil...",
+    "languageLabel": "Idioma",
+    "themeLabel": "Tema",
+    "themeToggle": "Cambiar tema",
+    "currentLanguage": "Español",
+    "sections": {
+      "summary": "Perfil",
+      "strengths": "Fortalezas clave",
+      "experience": "Experiencia",
+      "skills": "Habilidades técnicas",
+      "education": "Educación",
+      "languages": "Idiomas",
+      "downloads": "Descargas",
+      "contact": "Contacto"
+    },
+    "actions": {
+      "email": "Escríbeme",
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "downloadPdf": "Descargar PDF",
+      "downloadMarkdown": "Descargar Markdown",
+      "copyEmail": "Copiar email",
+      "copied": "Email copiado"
+    },
+    "labels": {
+      "location": "Ubicación",
+      "availability": "Disponibilidad",
+      "remote": "Remoto",
+      "present": "Actualidad",
+      "stack": "Stack",
+      "impact": "Impacto",
+      "confidential": "Confidencial"
+    },
+    "footer": "Diseñado como un CV ligero para GitHub Pages, impulsado por JSON."
+  },
+  "profile": {
+    "name": "Victor Parra",
+    "eyebrow": "Ingeniero en Computación · Desarrollador Fullstack · Frontend-focused Builder",
+    "headline": "Construyo interfaces pulidas y productos fullstack escalables para equipos remotos.",
+    "location": "Valencia, Venezuela",
+    "availability": "Remoto / Colaboración global",
+    "summary": "Ingeniero en Computación con más de 8 años de experiencia en desarrollo web y entrega de proyectos. Me especializo en desarrollo fullstack con fuerte orientación frontend usando React, React Native, Node.js, Django, PostgreSQL, MongoDB y Supabase, combinando criterio de producto, ejecución UI cuidada y arquitectura pragmática. He liderado equipos distribuidos, construido módulos SaaS y plataformas para clientes, e integro herramientas de IA para acelerar implementación, documentación y toma de decisiones técnicas.",
+    "contact": {
+      "email": "arturopt25@gmail.com",
+      "linkedin": "https://linkedin.com/in/victorpt25",
+      "github": "https://github.com/arturopt25"
+    }
+  },
+  "strengths": [
+    {
+      "title": "Sistemas frontend con calidad de producto",
+      "description": "Construyo interfaces responsivas y accesibles con React, Angular, Tailwind CSS, Material UI y patrones component-driven preparados para escalar."
+    },
+    {
+      "title": "Arquitectura fullstack",
+      "description": "Conecto la entrega UI con APIs confiables, bases de datos relacionales y documentales, flujos conscientes de autenticación y decisiones backend listas para producción."
+    },
+    {
+      "title": "Liderazgo de entrega",
+      "description": "Coordino equipos remotos multidisciplinarios, alineo hitos técnicos con objetivos de negocio y reduzco riesgos mediante KPIs claros y ejecución ágil."
+    },
+    {
+      "title": "Flujo de trabajo potenciado por IA",
+      "description": "Uso GitHub Copilot Pro, Gemini CLI y Perplexity Pro para acelerar código, investigación, documentación e iteración sin reemplazar el criterio de ingeniería."
+    }
+  ],
+  "experience": [
+    {
+      "company": "Empresa Confidencial (NDA)",
+      "role": "Desarrollador Fullstack",
+      "period": "Julio 2025 – Actualidad",
+      "location": "Venezuela · Remoto",
+      "summary": "Desarrollo capacidades SaaS centrales para múltiples roles de usuario con foco en consistencia de interfaz, automatización de flujos y arquitectura de datos escalable.",
+      "bullets": [
+        "Arquitecté y desarrollé más de 4 módulos SaaS centrales para múltiples roles, reduciendo el tiempo de trabajo manual en aproximadamente 30%.",
+        "Construí interfaces responsivas y de alto rendimiento con Tailwind CSS, mejorando la consistencia visual de la plataforma.",
+        "Reduje el tiempo de iteración de desarrollo en cerca de 40% integrando GitHub Copilot Pro, Gemini CLI y Perplexity Pro en flujos diarios de código y documentación.",
+        "Diseñé arquitectura de datos con PostgreSQL y Supabase para soportar crecimiento seguro y escalable del producto."
+      ],
+      "stack": ["React", "Tailwind CSS", "PostgreSQL", "Supabase", "Desarrollo asistido por IA"]
+    },
+    {
+      "company": "Alberta TechWorks",
+      "role": "Desarrollador Fullstack & Project Manager",
+      "period": "Abril 2022 – Septiembre 2024",
+      "location": "Alberta, Canadá · Remoto",
+      "summary": "Lideré entregas completas de producto combinando frontend, backend, DevOps y coordinación con stakeholders para equipos distribuidos.",
+      "bullets": [
+        "Lideré más de 6 proyectos web full-cycle con Angular, React.js, Django y Node.js, mejorando la escalabilidad del sistema en 50% mediante arquitectura de microservicios optimizada.",
+        "Implementé pipelines CI/CD con GitHub Actions y Docker, reduciendo errores de despliegue en 80% y tiempos de entrega en 60%.",
+        "Gestioné un equipo de más de 5 desarrolladores en 3 países, logrando 95% de entregas a tiempo y superando expectativas de stakeholders.",
+        "Definí KPIs e hitos de proyecto que redujeron reportes de bugs post-lanzamiento en 70%.",
+        "Colaboré con stakeholders para alinear objetivos técnicos con necesidades de negocio y mantener consistencia en la visión del producto."
+      ],
+      "stack": ["Angular", "React", "Django", "Node.js", "Docker", "GitHub Actions"]
+    },
+    {
+      "company": "Interfell",
+      "role": "Frontend Developer",
+      "period": "Octubre 2021 – Marzo 2022",
+      "location": "Costa Rica · Remoto",
+      "summary": "Construí funcionalidades para dashboards empresariales y colaboré de cerca con equipos UI/UX para elevar la calidad del producto visible al usuario.",
+      "bullets": [
+        "Construí y optimicé funcionalidades frontend para dashboards empresariales usando React.js, Redux, Chart.js y Material UI.",
+        "Alineé entregas con equipos UI/UX para crear interfaces responsivas, contribuyendo a un incremento de 40% en engagement de usuarios.",
+        "Actué como project manager interino, organizando sprints y coordinando entregas entre equipos bajo plazos ajustados."
+      ],
+      "stack": ["React", "Redux", "Chart.js", "Material UI"]
+    },
+    {
+      "company": "Freelance",
+      "role": "Desarrollador Fullstack",
+      "period": "Noviembre 2017 – Actualidad",
+      "location": "Remoto",
+      "summary": "Entregué sitios y aplicaciones en producción para clientes, estandarizando patrones reutilizables de desarrollo y despliegue.",
+      "bullets": [
+        "Entregué más de 20 proyectos para clientes usando React, Django, Node.js y WordPress, con 100% de entregas a tiempo y más de 95% de satisfacción.",
+        "Reduje el tiempo promedio de entrega en 25% mediante arquitectura de componentes reutilizables y flujos de despliegue estandarizados.",
+        "Diseñé prototipos UI en Figma y los convertí en interfaces web precisas y adaptadas a múltiples dispositivos.",
+        "Asesoré a clientes en arquitectura escalable y estrategias de despliegue, reduciendo costos de mantenimiento a largo plazo."
+      ],
+      "stack": ["React", "Django", "Node.js", "WordPress", "Figma"]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend & UI",
+      "items": ["React.js", "React Native", "Angular", "Next.js", "Vue.js", "Tailwind CSS", "Material UI", "Styled Components", "Redux", "Figma", "HTML", "CSS"]
+    },
+    {
+      "category": "Lenguajes",
+      "items": ["JavaScript", "TypeScript", "Python", "Java", "PHP", "Ruby"]
+    },
+    {
+      "category": "Backend & APIs",
+      "items": ["Node.js", "Django", "Laravel", "GraphQL", "REST APIs"]
+    },
+    {
+      "category": "Bases de datos",
+      "items": ["PostgreSQL", "MongoDB", "Supabase", "SQL", "SQLite"]
+    },
+    {
+      "category": "DevOps & Cloud",
+      "items": ["Git", "Docker", "AWS", "GitHub Actions", "CI/CD"]
+    },
+    {
+      "category": "IA & Productividad",
+      "items": ["GitHub Copilot Pro", "Gemini CLI", "Perplexity Pro", "Postman", "Jira", "Power BI", "Tableau"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería en Computación",
+      "institution": "Universidad José Antonio Páez",
+      "location": "Valencia, Venezuela",
+      "date": "Junio 2020"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Español",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglés",
+      "level": "Avanzado (C1)"
+    }
+  ],
+  "downloads": {
+    "pdf": "assets/victor-parra-cv.es.pdf",
+    "markdown": "assets/victor-parra-cv.es.md"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "language": "en",
+    "title": "Victor Parra — Frontend-focused Fullstack Developer",
+    "description": "Computer Engineer and fullstack developer with 8+ years building scalable web products, polished frontend systems, and remote delivery workflows.",
+    "siteUrl": "https://arturopt25.github.io",
+    "github": "https://github.com/arturopt25",
+    "linkedin": "https://linkedin.com/in/victorpt25",
+    "email": "arturopt25@gmail.com"
+  },
+  "ui": {
+    "skipLink": "Skip to content",
+    "loading": "Loading profile...",
+    "languageLabel": "Language",
+    "themeLabel": "Theme",
+    "themeToggle": "Toggle theme",
+    "currentLanguage": "English",
+    "sections": {
+      "summary": "Profile",
+      "strengths": "Core strengths",
+      "experience": "Experience",
+      "skills": "Technical skills",
+      "education": "Education",
+      "languages": "Languages",
+      "downloads": "Downloads",
+      "contact": "Contact"
+    },
+    "actions": {
+      "email": "Email me",
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "downloadPdf": "Download PDF",
+      "downloadMarkdown": "Download Markdown",
+      "copyEmail": "Copy email",
+      "copied": "Email copied"
+    },
+    "labels": {
+      "location": "Location",
+      "availability": "Availability",
+      "remote": "Remote",
+      "present": "Present",
+      "stack": "Stack",
+      "impact": "Impact",
+      "confidential": "Confidential"
+    },
+    "footer": "Designed as a lightweight, JSON-driven GitHub Pages CV."
+  },
+  "profile": {
+    "name": "Victor Parra",
+    "eyebrow": "Computer Engineer · Fullstack Developer · Frontend-focused Builder",
+    "headline": "I build polished interfaces and scalable fullstack products for remote teams.",
+    "location": "Valencia, Venezuela",
+    "availability": "Remote / Global collaboration",
+    "summary": "Computer Engineer with 8+ years of experience in web development and project delivery. I specialize in frontend-leaning fullstack work across React, React Native, Node.js, Django, PostgreSQL, MongoDB, and Supabase, combining product thinking, clean UI execution, and pragmatic architecture. I have led distributed teams, shipped SaaS modules and client platforms, and actively integrate AI tools to accelerate implementation, documentation, and technical decision-making.",
+    "contact": {
+      "email": "arturopt25@gmail.com",
+      "linkedin": "https://linkedin.com/in/victorpt25",
+      "github": "https://github.com/arturopt25"
+    }
+  },
+  "strengths": [
+    {
+      "title": "Frontend systems with product polish",
+      "description": "Builds responsive, accessible interfaces with React, Angular, Tailwind CSS, Material UI, and component-driven patterns that scale beyond a single screen."
+    },
+    {
+      "title": "Fullstack architecture",
+      "description": "Connects UI delivery with reliable APIs, relational and document databases, authentication-aware flows, and deployment-ready backend decisions."
+    },
+    {
+      "title": "Delivery leadership",
+      "description": "Coordinates multidisciplinary remote teams, aligns technical milestones with business goals, and reduces delivery risk through clear KPIs and agile execution."
+    },
+    {
+      "title": "AI-enabled workflow",
+      "description": "Uses GitHub Copilot Pro, Gemini CLI, and Perplexity Pro to accelerate coding, research, documentation, and iteration without sacrificing engineering judgment."
+    }
+  ],
+  "experience": [
+    {
+      "company": "Confidential Company (NDA)",
+      "role": "Fullstack Developer",
+      "period": "July 2025 – Present",
+      "location": "Venezuela · Remote",
+      "summary": "Developing core SaaS capabilities for multiple user roles with a focus on interface consistency, workflow automation, and scalable data architecture.",
+      "bullets": [
+        "Architected and developed 4+ core SaaS modules serving multiple roles, reducing manual workflow time by an estimated 30%.",
+        "Built responsive, high-performance interfaces with Tailwind CSS, improving UI consistency across the platform.",
+        "Reduced development iteration time by roughly 40% by integrating GitHub Copilot Pro, Gemini CLI, and Perplexity Pro into daily coding and documentation workflows.",
+        "Designed PostgreSQL and Supabase database architecture to support scalable and secure product growth."
+      ],
+      "stack": ["React", "Tailwind CSS", "PostgreSQL", "Supabase", "AI-assisted development"]
+    },
+    {
+      "company": "Alberta TechWorks",
+      "role": "Fullstack Developer & Project Manager",
+      "period": "April 2022 – September 2024",
+      "location": "Alberta, Canada · Remote",
+      "summary": "Led full-cycle product delivery across frontend, backend, DevOps, and stakeholder coordination for distributed teams.",
+      "bullets": [
+        "Led 6+ full-cycle web projects using Angular, React.js, Django, and Node.js, improving system scalability by 50% through optimized microservices architecture.",
+        "Implemented CI/CD pipelines with GitHub Actions and Docker, reducing deployment errors by 80% and cutting delivery time by 60%.",
+        "Managed a team of 5+ developers across 3 countries, achieving a 95% on-time delivery rate while exceeding stakeholder expectations.",
+        "Defined KPIs and project milestones that reduced post-launch bug reports by 70% across delivered products.",
+        "Partnered with stakeholders to align technical goals with business objectives and maintain product vision consistency."
+      ],
+      "stack": ["Angular", "React", "Django", "Node.js", "Docker", "GitHub Actions"]
+    },
+    {
+      "company": "Interfell",
+      "role": "Frontend Developer",
+      "period": "October 2021 – March 2022",
+      "location": "Costa Rica · Remote",
+      "summary": "Built enterprise dashboard features and collaborated closely with UI/UX teams to improve user-facing product quality.",
+      "bullets": [
+        "Built and optimized frontend features for enterprise dashboards using React.js, Redux, Chart.js, and Material UI.",
+        "Aligned with UI/UX teams to deliver responsive interfaces, contributing to a 40% increase in user engagement.",
+        "Served as interim project manager, organizing sprints and coordinating cross-team deliveries under tight deadlines."
+      ],
+      "stack": ["React", "Redux", "Chart.js", "Material UI"]
+    },
+    {
+      "company": "Freelance",
+      "role": "Fullstack Developer",
+      "period": "November 2017 – Present",
+      "location": "Remote",
+      "summary": "Delivered production websites and applications for clients while standardizing reusable delivery patterns.",
+      "bullets": [
+        "Delivered 20+ client projects using React, Django, Node.js, and WordPress with 100% on-time delivery and 95%+ client satisfaction.",
+        "Reduced average project delivery time by 25% through reusable component architecture and standardized deployment workflows.",
+        "Designed UI prototypes in Figma and translated them into pixel-aligned web interfaces across devices.",
+        "Consulted clients on scalable architecture and deployment strategies, reducing long-term maintenance cost."
+      ],
+      "stack": ["React", "Django", "Node.js", "WordPress", "Figma"]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend & UI",
+      "items": ["React.js", "React Native", "Angular", "Next.js", "Vue.js", "Tailwind CSS", "Material UI", "Styled Components", "Redux", "Figma", "HTML", "CSS"]
+    },
+    {
+      "category": "Languages",
+      "items": ["JavaScript", "TypeScript", "Python", "Java", "PHP", "Ruby"]
+    },
+    {
+      "category": "Backend & APIs",
+      "items": ["Node.js", "Django", "Laravel", "GraphQL", "REST APIs"]
+    },
+    {
+      "category": "Databases",
+      "items": ["PostgreSQL", "MongoDB", "Supabase", "SQL", "SQLite"]
+    },
+    {
+      "category": "DevOps & Cloud",
+      "items": ["Git", "Docker", "AWS", "GitHub Actions", "CI/CD"]
+    },
+    {
+      "category": "AI & Productivity",
+      "items": ["GitHub Copilot Pro", "Gemini CLI", "Perplexity Pro", "Postman", "Jira", "Power BI", "Tableau"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Computer Engineering",
+      "institution": "Universidad José Antonio Páez",
+      "location": "Valencia, Venezuela",
+      "date": "June 2020"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Spanish",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Advanced (C1)"
+    }
+  ],
+  "downloads": {
+    "pdf": "assets/victor-parra-cv.en.pdf",
+    "markdown": "assets/victor-parra-cv.en.md"
+  }
+}

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Victor Parra — Frontend-focused Fullstack Developer</title>
+    <meta
+      name="description"
+      content="Computer Engineer and fullstack developer with 8+ years building scalable web products, polished frontend systems, and remote delivery workflows."
+    />
+    <meta name="author" content="Victor Parra" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://arturopt25.github.io" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Victor Parra — Frontend-focused Fullstack Developer" />
+    <meta
+      property="og:description"
+      content="Computer Engineer and fullstack developer with 8+ years building scalable web products, polished frontend systems, and remote delivery workflows."
+    />
+    <meta property="og:url" content="https://arturopt25.github.io" />
+    <meta property="og:site_name" content="Victor Parra CV" />
+    <meta property="og:image" content="https://arturopt25.github.io/assets/avatar-placeholder.svg" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Victor Parra — Frontend-focused Fullstack Developer" />
+    <meta
+      name="twitter:description"
+      content="Computer Engineer and fullstack developer with 8+ years building scalable web products, polished frontend systems, and remote delivery workflows."
+    />
+    <meta name="twitter:image" content="https://arturopt25.github.io/assets/avatar-placeholder.svg" />
+
+    <link rel="icon" href="assets/avatar-placeholder.svg" type="image/svg+xml" />
+    <link rel="preload" href="data/cv.en.json" as="fetch" crossorigin="anonymous" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#content" data-ui="skipLink">Skip to content</a>
+
+    <div class="site-frame" aria-hidden="true">
+      <span class="orb orb--one"></span>
+      <span class="orb orb--two"></span>
+      <span class="grid-glow"></span>
+    </div>
+
+    <header class="site-header" data-reveal>
+      <a class="brand" href="#top" aria-label="Victor Parra home">
+        <span class="brand__mark">VP</span>
+        <span class="brand__text">Victor Parra</span>
+      </a>
+
+      <nav class="main-nav" aria-label="Primary navigation">
+        <a href="#summary" data-nav="summary">Profile</a>
+        <a href="#experience" data-nav="experience">Experience</a>
+        <a href="#skills" data-nav="skills">Skills</a>
+        <a href="#contact" data-nav="contact">Contact</a>
+      </nav>
+
+      <div class="control-panel" aria-label="Preferences">
+        <div class="language-switch" role="group" aria-label="Language" data-ui-aria="languageLabel">
+          <button class="chip-button" type="button" data-language="en" aria-pressed="true">EN</button>
+          <button class="chip-button" type="button" data-language="es" aria-pressed="false">ES</button>
+        </div>
+        <button class="theme-toggle" type="button" data-action="toggle-theme" aria-label="Toggle theme">
+          <span class="theme-toggle__icon" aria-hidden="true"></span>
+        </button>
+      </div>
+    </header>
+
+    <main id="content" tabindex="-1">
+      <section class="hero section-shell" id="top" aria-labelledby="hero-title" data-render="hero" data-reveal>
+        <div class="loading-card" role="status" data-ui="loading">Loading profile...</div>
+      </section>
+
+      <section class="section-shell content-section" id="summary" aria-labelledby="summary-title" data-render="summary" data-reveal></section>
+      <section class="section-shell content-section" id="strengths" aria-labelledby="strengths-title" data-render="strengths" data-reveal></section>
+      <section class="section-shell content-section" id="experience" aria-labelledby="experience-title" data-render="experience" data-reveal></section>
+      <section class="section-shell content-section" id="skills" aria-labelledby="skills-title" data-render="skills" data-reveal></section>
+      <section class="section-shell content-section" id="education" aria-labelledby="education-title" data-render="education" data-reveal></section>
+      <section class="section-shell content-section" id="languages" aria-labelledby="languages-title" data-render="languages" data-reveal></section>
+      <section class="section-shell content-section" id="downloads" aria-labelledby="downloads-title" data-render="downloads" data-reveal></section>
+    </main>
+
+    <footer class="site-footer section-shell" id="contact" data-render="footer" data-reveal></footer>
+
+    <noscript>
+      <section class="noscript-notice section-shell">
+        <h1>Victor Parra</h1>
+        <p>
+          This CV is powered by static JSON and vanilla JavaScript. Please enable JavaScript to view the interactive
+          version, or download the Markdown CV from the assets folder.
+        </p>
+        <p><a href="assets/victor-parra-cv.en.md">Download English Markdown CV</a></p>
+      </section>
+    </noscript>
+  </body>
+</html>
