@@ -2,7 +2,7 @@
   "meta": {
     "language": "en",
     "title": "Victor Parra — Frontend-focused Fullstack Developer",
-    "description": "Computer Engineer and fullstack developer with 8+ years building scalable web products, polished frontend systems, and remote delivery workflows.",
+    "description": "Computer Engineer and fullstack developer with 8+ years building scalable web products, polished frontend systems, modern backend flows, and AI-assisted engineering workflows.",
     "siteUrl": "https://arturopt25.github.io",
     "github": "https://github.com/arturopt25",
     "linkedin": "https://linkedin.com/in/victorpt25",
@@ -43,15 +43,16 @@
       "impact": "Impact",
       "confidential": "Confidential"
     },
-    "footer": "Designed as a lightweight, JSON-driven GitHub Pages CV."
+    "footer": "Designed and built by Victor Parra as a fast, polished, and content-driven professional portfolio."
   },
   "profile": {
     "name": "Victor Parra",
     "eyebrow": "Computer Engineer · Fullstack Developer · Frontend-focused Builder",
     "headline": "I build polished interfaces and scalable fullstack products for remote teams.",
+    "heroSummary": "Frontend-focused fullstack developer blending product-minded UI, modern backend foundations, and AI-assisted engineering workflows to ship reliable digital products faster.",
     "location": "Valencia, Venezuela",
     "availability": "Remote / Global collaboration",
-    "summary": "Computer Engineer with 8+ years of experience in web development and project delivery. I specialize in frontend-leaning fullstack work across React, React Native, Node.js, Django, PostgreSQL, MongoDB, and Supabase, combining product thinking, clean UI execution, and pragmatic architecture. I have led distributed teams, shipped SaaS modules and client platforms, and actively integrate AI tools to accelerate implementation, documentation, and technical decision-making.",
+    "summary": "Computer Engineer with 8+ years of experience in web development and project delivery. I specialize in frontend-leaning fullstack work across React, React Native, Node.js, Django, PostgreSQL, MongoDB, Supabase, Prisma, and Better Auth, combining product thinking, clean UI execution, and pragmatic architecture. I actively use AI coding models, agents, MCP servers, and skill-based workflows with tools such as OpenCode and Codex to accelerate implementation, debugging, documentation, and technical decision-making while maintaining engineering control.",
     "contact": {
       "email": "arturopt25@gmail.com",
       "linkedin": "https://linkedin.com/in/victorpt25",
@@ -65,15 +66,15 @@
     },
     {
       "title": "Fullstack architecture",
-      "description": "Connects UI delivery with reliable APIs, relational and document databases, authentication-aware flows, and deployment-ready backend decisions."
+      "description": "Connects UI delivery with reliable APIs, Prisma-backed data modeling, relational and document databases, Better Auth authentication flows, and deployment-ready backend decisions."
     },
     {
       "title": "Delivery leadership",
       "description": "Coordinates multidisciplinary remote teams, aligns technical milestones with business goals, and reduces delivery risk through clear KPIs and agile execution."
     },
     {
-      "title": "AI-enabled workflow",
-      "description": "Uses GitHub Copilot Pro, Gemini CLI, and Perplexity Pro to accelerate coding, research, documentation, and iteration without sacrificing engineering judgment."
+      "title": "AI-assisted engineering",
+      "description": "Applies AI coding models, agents, MCP, and skill-based workflows with OpenCode, Codex, GitHub Copilot, and Gemini CLI to accelerate delivery without sacrificing review discipline or architectural control."
     }
   ],
   "experience": [
@@ -86,10 +87,10 @@
       "bullets": [
         "Architected and developed 4+ core SaaS modules serving multiple roles, reducing manual workflow time by an estimated 30%.",
         "Built responsive, high-performance interfaces with Tailwind CSS, improving UI consistency across the platform.",
-        "Reduced development iteration time by roughly 40% by integrating GitHub Copilot Pro, Gemini CLI, and Perplexity Pro into daily coding and documentation workflows.",
-        "Designed PostgreSQL and Supabase database architecture to support scalable and secure product growth."
+        "Reduced development iteration time by roughly 40% by integrating OpenCode, Codex, GitHub Copilot, Gemini CLI, AI agents, MCP, and skill-based workflows into daily coding, debugging, and documentation routines.",
+        "Designed PostgreSQL, Supabase, Prisma, and Better Auth backend foundations to support scalable data access, secure authentication, and product growth."
       ],
-      "stack": ["React", "Tailwind CSS", "PostgreSQL", "Supabase", "AI-assisted development"]
+      "stack": ["React", "Tailwind CSS", "PostgreSQL", "Supabase", "Prisma", "Better Auth", "AI-assisted development"]
     },
     {
       "company": "Alberta TechWorks",
@@ -145,7 +146,7 @@
     },
     {
       "category": "Backend & APIs",
-      "items": ["Node.js", "Django", "Laravel", "GraphQL", "REST APIs"]
+      "items": ["Node.js", "Django", "Laravel", "Prisma", "Better Auth", "GraphQL", "REST APIs", "Authentication flows"]
     },
     {
       "category": "Databases",
@@ -156,8 +157,8 @@
       "items": ["Git", "Docker", "AWS", "GitHub Actions", "CI/CD"]
     },
     {
-      "category": "AI & Productivity",
-      "items": ["GitHub Copilot Pro", "Gemini CLI", "Perplexity Pro", "Postman", "Jira", "Power BI", "Tableau"]
+      "category": "AI Engineering & Developer Tooling",
+      "items": ["OpenCode", "Codex", "AI coding models", "AI agents", "MCP", "Skill workflows", "GitHub Copilot Pro", "Gemini CLI", "Perplexity Pro", "Postman", "Jira", "Power BI", "Tableau"]
     }
   ],
   "education": [

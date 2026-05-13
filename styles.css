@@ -269,8 +269,9 @@ button {
   grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.58fr);
   gap: clamp(2rem, 5vw, 4rem);
   align-items: center;
-  min-height: calc(100vh - 8rem);
-  padding-block: clamp(2.5rem, 7vw, 7rem);
+  min-height: calc(100vh - 6rem);
+  padding-block: clamp(0.75rem, 2.5vw, 2rem) clamp(2.5rem, 6vw, 5rem);
+  margin-top: clamp(0.75rem, 2vw, 1.5rem);
 }
 
 .loading-card,
@@ -405,7 +406,9 @@ button {
 .hero-card__avatar {
   display: block;
   width: 100%;
+  aspect-ratio: 1;
   height: auto;
+  object-fit: cover;
   border-radius: calc(var(--radius-xl) - 10px);
   box-shadow: var(--shadow-soft);
 }

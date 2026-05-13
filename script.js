@@ -202,7 +202,7 @@
       createElement("img", {
         className: "hero-card__avatar",
         attrs: {
-          src: "assets/avatar-placeholder.svg",
+          src: "assets/portrait.jpeg",
           alt: "",
           width: "420",
           height: "420"
@@ -220,7 +220,7 @@
       createElement("p", { className: "eyebrow", text: profile.eyebrow }),
       createElement("h1", { id: "hero-title", text: profile.name }),
       createElement("p", { className: "hero__headline", text: profile.headline }),
-      createElement("p", { className: "hero__summary", text: profile.summary }),
+      createElement("p", { className: "hero__summary", text: profile.heroSummary || profile.summary }),
       contactList,
       downloadList
     ]);

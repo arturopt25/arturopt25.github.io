@@ -1,4 +1,5 @@
 %PDF-1.4
+%‚„œ”
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
@@ -6,208 +7,384 @@ endobj
 << /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 3454 >>
+<< /Length 8395 >>
 stream
-BT
-/F1 22 Tf
-54 736 Td
-(Victor Parra) Tj
--54 -736 Td
-/F1 10 Tf
-54 694 Td
-(Ingeniero en Computacion | Desarrollador Fullstack | Enfoque Frontend) Tj
--54 -694 Td
-/F1 10 Tf
-54 674 Td
-(Valencia, Venezuela | Remoto / Colaboracion global) Tj
--54 -674 Td
-/F1 10 Tf
-54 654 Td
-(Email: arturopt25@gmail.com | LinkedIn: https://linkedin.com/in/victorpt25 | GitHub:) Tj
--54 -654 Td
-/F1 10 Tf
-54 641 Td
-(https://github.com/arturopt25) Tj
--54 -641 Td
-/F1 14 Tf
-54 621 Td
-(Resumen Profesional) Tj
--54 -621 Td
-/F1 10 Tf
-54 593 Td
-(Ingeniero en Computacion con mas de 8 anos de experiencia en desarrollo web y entrega de) Tj
--54 -593 Td
-/F1 10 Tf
-54 580 Td
-(proyectos. Especializado en desarrollo fullstack con fuerte orientacion frontend usando) Tj
--54 -580 Td
-/F1 10 Tf
-54 567 Td
-(React, React Native, Node.js, Django, PostgreSQL, MongoDB y Supabase, combinando criterio de) Tj
--54 -567 Td
-/F1 10 Tf
-54 554 Td
-(producto, ejecucion UI cuidada y arquitectura pragmatica.) Tj
--54 -554 Td
-/F1 14 Tf
-54 534 Td
-(Fortalezas Clave) Tj
--54 -534 Td
-/F1 10 Tf
-54 506 Td
-(Sistemas frontend con calidad de producto; arquitectura fullstack; liderazgo de entrega para) Tj
--54 -506 Td
-/F1 10 Tf
-54 493 Td
-(equipos distribuidos; flujos de trabajo potenciados por IA con GitHub Copilot Pro, Gemini) Tj
--54 -493 Td
-/F1 10 Tf
-54 480 Td
-(CLI y Perplexity Pro.) Tj
--54 -480 Td
-/F1 14 Tf
-54 460 Td
-(Experiencia) Tj
--54 -460 Td
-/F1 10 Tf
-54 432 Td
-(Empresa Confidencial \(NDA\) | Desarrollador Fullstack | Julio 2025 - Actualidad | Venezuela,) Tj
--54 -432 Td
-/F1 10 Tf
-54 419 Td
-(Remoto) Tj
--54 -419 Td
-/F1 10 Tf
-54 399 Td
-(- Arquitecte y desarrolle mas de 4 modulos SaaS para multiples roles, reduciendo tiempo) Tj
--54 -399 Td
-/F1 10 Tf
-54 386 Td
-(manual en aproximadamente 30%.) Tj
--54 -386 Td
-/F1 10 Tf
-54 367 Td
-(- ConstruÌ interfaces responsivas con Tailwind CSS y disene arquitectura de datos con) Tj
--54 -367 Td
-/F1 10 Tf
-54 354 Td
-(PostgreSQL/Supabase.) Tj
--54 -354 Td
-/F1 10 Tf
-54 335 Td
-(Alberta TechWorks | Desarrollador Fullstack & Project Manager | Abril 2022 - Septiembre 2024) Tj
--54 -335 Td
-/F1 10 Tf
-54 322 Td
-(| Alberta, Canada, Remoto) Tj
--54 -322 Td
-/F1 10 Tf
-54 302 Td
-(- Lidere mas de 6 proyectos web con Angular, React.js, Django y Node.js, mejorando) Tj
--54 -302 Td
-/F1 10 Tf
-54 289 Td
-(escalabilidad en 50%.) Tj
--54 -289 Td
-/F1 10 Tf
-54 270 Td
-(- Implemente CI/CD con GitHub Actions y Docker, reduciendo errores de despliegue en 80% y) Tj
--54 -270 Td
-/F1 10 Tf
-54 257 Td
-(tiempos de entrega en 60%.) Tj
--54 -257 Td
-/F1 10 Tf
-54 238 Td
-(- Gestione mas de 5 desarrolladores en 3 paises con 95% de entregas a tiempo.) Tj
--54 -238 Td
-/F1 10 Tf
-54 219 Td
-(Interfell | Frontend Developer | Octubre 2021 - Marzo 2022 | Costa Rica, Remoto) Tj
--54 -219 Td
-/F1 10 Tf
-54 199 Td
-(- ConstruÌ funcionalidades para dashboards empresariales con React.js, Redux, Chart.js y) Tj
--54 -199 Td
-/F1 10 Tf
-54 186 Td
-(Material UI.) Tj
--54 -186 Td
-/F1 10 Tf
-54 167 Td
-(Freelance | Desarrollador Fullstack | Noviembre 2017 - Actualidad | Remoto) Tj
--54 -167 Td
-/F1 10 Tf
-54 147 Td
-(- Entregue mas de 20 proyectos con React, Django, Node.js y WordPress, manteniendo alta) Tj
--54 -147 Td
-/F1 10 Tf
-54 134 Td
-(satisfaccion de clientes.) Tj
--54 -134 Td
-/F1 14 Tf
-54 115 Td
-(Habilidades Tecnicas) Tj
--54 -115 Td
-/F1 10 Tf
-54 87 Td
-(Frontend/UI: React.js, React Native, Angular, Next.js, Vue.js, Tailwind CSS, Material UI,) Tj
--54 -87 Td
-/F1 10 Tf
-54 74 Td
-(Redux, Figma, HTML, CSS) Tj
--54 -74 Td
-ET
+0.055 0.086 0.110 rg
+0.00 0.00 178.00 842.00 re f
+0.773 0.608 0.384 rg
+0.00 0.00 10.00 842.00 re f
+0.972 0.945 0.898 rg
+BT /F2 26.00 Tf 28.00 770.00 Td (Victor) Tj ET
+0.972 0.945 0.898 rg
+BT /F2 26.00 Tf 28.00 742.00 Td (Parra) Tj ET
+0.830 0.840 0.820 rg
+BT /F1 8.20 Tf 28.00 716.00 Td (Ingeniero en Computaci\363n \267) Tj ET
+0.830 0.840 0.820 rg
+BT /F1 8.20 Tf 28.00 705.00 Td (Desarrollador Fullstack \267) Tj ET
+0.830 0.840 0.820 rg
+BT /F1 8.20 Tf 28.00 694.00 Td (Frontend-focused Builder) Tj ET
+0.773 0.608 0.384 rg
+28.00 677.00 118.00 4.00 re f
+0.773 0.608 0.384 rg
+BT /F2 9.20 Tf 28.00 650.00 Td (CONTACTO) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 631.00 Td (Valencia, Venezuela) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 615.00 Td (Remoto / Colaboraci\363n global) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 599.00 Td (arturopt25@gmail.com) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 583.00 Td (linkedin.com/in/victorpt25) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 567.00 Td (github.com/arturopt25) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 9.20 Tf 28.00 537.00 Td (FOCO) Tj ET
+0.773 0.608 0.384 rg
+28.00 518.20 3.80 3.80 re f
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 34.00 516.00 Td (Ingenier\355a asistida por IA) Tj ET
+0.773 0.608 0.384 rg
+28.00 501.20 3.80 3.80 re f
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 34.00 499.00 Td (Sistemas frontend de) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 34.00 487.00 Td (producto) Tj ET
+0.773 0.608 0.384 rg
+28.00 472.20 3.80 3.80 re f
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 34.00 470.00 Td (Backend moderno & auth) Tj ET
+0.965 0.955 0.935 rg
+178.00 784.00 417.00 58.00 re f
+0.100 0.120 0.140 rg
+BT /F2 15.00 Tf 205.00 790.00 Td (Frontend-focused Fullstack Developer) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 9.50 Tf 205.00 769.00 Td (Ingenier\355a asistida por IA \267 Backend moderno \267 Entrega remota) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 10.50 Tf 205.00 728.00 Td (RESUMEN PROFESIONAL) Tj ET
+0.820 0.780 0.700 RG
+0.75 w 205.00 721.00 m 553.00 721.00 l S
+0.100 0.120 0.140 rg
+BT /F1 9.20 Tf 205.00 704.00 Td (Ingeniero en Computaci\363n con m\341s de 8 a\361os de experiencia en desarrollo web y) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 9.20 Tf 205.00 691.60 Td (entrega de proyectos. Me especializo en desarrollo fullstack con fuerte) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 9.20 Tf 205.00 679.20 Td (orientaci\363n frontend usando React, React Native, Node.js, Django, PostgreSQL,) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 9.20 Tf 205.00 666.80 Td (MongoDB, Supabase, Prisma y Better Auth, combinando criterio de producto,) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 9.20 Tf 205.00 654.40 Td (ejecuci\363n UI cuidada y arquitectura pragm\341tica. Uso modelos de IA para) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 9.20 Tf 205.00 642.00 Td (c\363digo, agentes, servidores MCP y flujos basados en skills con herramientas) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 9.20 Tf 205.00 629.60 Td (como OpenCode y Codex para acelerar implementaci\363n, debugging, documentaci\363n) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 9.20 Tf 205.00 617.20 Td (y toma de decisiones t\351cnicas manteniendo control de ingenier\355a.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 10.50 Tf 205.00 594.80 Td (FORTALEZAS CLAVE) Tj ET
+0.820 0.780 0.700 RG
+0.75 w 205.00 587.80 m 553.00 587.80 l S
+0.100 0.120 0.140 rg
+BT /F2 9.50 Tf 205.00 570.80 Td (Sistemas frontend con calidad de producto) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 557.80 Td (Construyo interfaces responsivas y accesibles con React, Angular, Tailwind CSS,) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 546.80 Td (Material UI y patrones component-driven preparados para escalar.) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 9.50 Tf 205.00 529.80 Td (Arquitectura fullstack) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 516.80 Td (Conecto la entrega UI con APIs confiables, modelado de datos con Prisma, bases de) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 505.80 Td (datos relacionales y documentales, flujos de autenticaci\363n con Better Auth y) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 494.80 Td (decisiones backend listas para producci\363n.) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 9.50 Tf 205.00 477.80 Td (Liderazgo de entrega) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 464.80 Td (Coordino equipos remotos multidisciplinarios, alineo hitos t\351cnicos con objetivos) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 453.80 Td (de negocio y reduzco riesgos mediante KPIs claros y ejecuci\363n \341gil.) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 9.50 Tf 205.00 436.80 Td (Ingenier\355a asistida por IA) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 423.80 Td (Aplico modelos de IA para c\363digo, agentes, MCP y flujos basados en skills con) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 412.80 Td (OpenCode, Codex, GitHub Copilot y Gemini CLI para acelerar entregas sin sacrificar) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 401.80 Td (revisi\363n t\351cnica ni control arquitect\363nico.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 10.50 Tf 205.00 382.80 Td (EXPERIENCIA PROFESIONAL) Tj ET
+0.820 0.780 0.700 RG
+0.75 w 205.00 375.80 m 553.00 375.80 l S
+0.100 0.120 0.140 rg
+BT /F2 10.20 Tf 205.00 350.80 Td (Empresa Confidencial \(NDA\) \227 Desarrollador Fullstack) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 8.40 Tf 205.00 336.80 Td (Julio 2025 \226 Actualidad | Venezuela \267 Remoto) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 321.80 Td (Desarrollo capacidades SaaS centrales para m\372ltiples roles de usuario con foco en) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 310.80 Td (consistencia de interfaz, automatizaci\363n de flujos y arquitectura de datos) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 299.80 Td (escalable.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 285.80 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 285.80 Td (Arquitect\351 y desarroll\351 m\341s de 4 m\363dulos SaaS centrales para m\372ltiples roles,) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 274.30 Td (reduciendo el tiempo de trabajo manual en aproximadamente 30%.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 259.80 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 259.80 Td (Constru\355 interfaces responsivas y de alto rendimiento con Tailwind CSS, mejorando) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 248.30 Td (la consistencia visual de la plataforma.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 233.80 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 233.80 Td (Reduje el tiempo de iteraci\363n de desarrollo en cerca de 40% integrando OpenCode,) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 222.30 Td (Codex, GitHub Copilot, Gemini CLI, agentes de IA, MCP y flujos basados en skills) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 210.80 Td (en rutinas diarias de c\363digo, debugging y documentaci\363n.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 196.30 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 196.30 Td (Dise\361\351 bases backend con PostgreSQL, Supabase, Prisma y Better Auth para soportar) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 184.80 Td (acceso escalable a datos, autenticaci\363n segura y crecimiento del producto.) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 7.80 Tf 205.00 170.30 Td (Stack: React, Tailwind CSS, PostgreSQL, Supabase, Prisma, Better Auth, Desarrollo asistido por IA) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 10.20 Tf 205.00 144.30 Td (Alberta TechWorks \227 Desarrollador Fullstack & Project Manager) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 8.40 Tf 205.00 130.30 Td (Abril 2022 \226 Septiembre 2024 | Alberta, Canad\341 \267 Remoto) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 115.30 Td (Lider\351 entregas completas de producto combinando frontend, backend, DevOps y) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 104.30 Td (coordinaci\363n con stakeholders para equipos distribuidos.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 90.30 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 90.30 Td (Lider\351 m\341s de 6 proyectos web full-cycle con Angular, React.js, Django y Node.js,) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 78.80 Td (mejorando la escalabilidad del sistema en 50% mediante arquitectura de) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 67.30 Td (microservicios optimizada.) Tj ET
+0.420 0.450 0.470 rg
+BT /F2 8.00 Tf 512.00 28.00 Td (1) Tj ET
+0.860 0.840 0.790 RG
+0.50 w 205.00 39.00 m 553.00 39.00 l S
 endstream
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 458 >>
+<< /Length 8614 >>
 stream
-BT
-/F1 10 Tf
-54 736 Td
-(Backend/Data/Cloud: Node.js, Django, Laravel, GraphQL, PostgreSQL, MongoDB, Supabase,) Tj
--54 -736 Td
-/F1 10 Tf
-54 723 Td
-(Docker, AWS, GitHub Actions) Tj
--54 -723 Td
-/F1 14 Tf
-54 703 Td
-(Educacion e Idiomas) Tj
--54 -703 Td
-/F1 10 Tf
-54 675 Td
-(Ingenieria en Computacion - Universidad Jose Antonio Paez, Valencia, Venezuela, Junio 2020) Tj
--54 -675 Td
-/F1 10 Tf
-54 655 Td
-(Espanol: Nativo | Ingles: Avanzado \(C1\)) Tj
--54 -655 Td
-ET
+0.055 0.086 0.110 rg
+0.00 0.00 178.00 842.00 re f
+0.773 0.608 0.384 rg
+0.00 0.00 10.00 842.00 re f
+0.972 0.945 0.898 rg
+BT /F2 26.00 Tf 28.00 770.00 Td (Victor) Tj ET
+0.972 0.945 0.898 rg
+BT /F2 26.00 Tf 28.00 742.00 Td (Parra) Tj ET
+0.830 0.840 0.820 rg
+BT /F1 8.20 Tf 28.00 716.00 Td (Ingeniero en Computaci\363n \267) Tj ET
+0.830 0.840 0.820 rg
+BT /F1 8.20 Tf 28.00 705.00 Td (Desarrollador Fullstack \267) Tj ET
+0.830 0.840 0.820 rg
+BT /F1 8.20 Tf 28.00 694.00 Td (Frontend-focused Builder) Tj ET
+0.773 0.608 0.384 rg
+28.00 677.00 118.00 4.00 re f
+0.773 0.608 0.384 rg
+BT /F2 9.20 Tf 28.00 650.00 Td (CONTACTO) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 631.00 Td (Valencia, Venezuela) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 615.00 Td (Remoto / Colaboraci\363n global) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 599.00 Td (arturopt25@gmail.com) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 583.00 Td (linkedin.com/in/victorpt25) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 28.00 567.00 Td (github.com/arturopt25) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 9.20 Tf 28.00 537.00 Td (FOCO) Tj ET
+0.773 0.608 0.384 rg
+28.00 518.20 3.80 3.80 re f
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 34.00 516.00 Td (Ingenier\355a asistida por IA) Tj ET
+0.773 0.608 0.384 rg
+28.00 501.20 3.80 3.80 re f
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 34.00 499.00 Td (Sistemas frontend de) Tj ET
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 34.00 487.00 Td (producto) Tj ET
+0.773 0.608 0.384 rg
+28.00 472.20 3.80 3.80 re f
+0.972 0.945 0.898 rg
+BT /F1 8.60 Tf 34.00 470.00 Td (Backend moderno & auth) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 768.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 768.00 Td (Implement\351 pipelines CI/CD con GitHub Actions y Docker, reduciendo errores de) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 756.50 Td (despliegue en 80% y tiempos de entrega en 60%.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 742.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 742.00 Td (Gestion\351 un equipo de m\341s de 5 desarrolladores en 3 pa\355ses, logrando 95% de) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 730.50 Td (entregas a tiempo y superando expectativas de stakeholders.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 716.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 716.00 Td (Defin\355 KPIs e hitos de proyecto que redujeron reportes de bugs post-lanzamiento en) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 704.50 Td (70%.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 690.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 690.00 Td (Colabor\351 con stakeholders para alinear objetivos t\351cnicos con necesidades de) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 678.50 Td (negocio y mantener consistencia en la visi\363n del producto.) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 7.80 Tf 205.00 664.00 Td (Stack: Angular, React, Django, Node.js, Docker, GitHub Actions) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 10.20 Tf 205.00 638.00 Td (Interfell \227 Frontend Developer) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 8.40 Tf 205.00 624.00 Td (Octubre 2021 \226 Marzo 2022 | Costa Rica \267 Remoto) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 609.00 Td (Constru\355 funcionalidades para dashboards empresariales y colabor\351 de cerca con) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 598.00 Td (equipos UI/UX para elevar la calidad del producto visible al usuario.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 584.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 584.00 Td (Constru\355 y optimic\351 funcionalidades frontend para dashboards empresariales usando) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 572.50 Td (React.js, Redux, Chart.js y Material UI.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 558.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 558.00 Td (Aline\351 entregas con equipos UI/UX para crear interfaces responsivas, contribuyendo) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 546.50 Td (a un incremento de 40% en engagement de usuarios.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 532.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 532.00 Td (Actu\351 como project manager interino, organizando sprints y coordinando entregas) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 520.50 Td (entre equipos bajo plazos ajustados.) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 7.80 Tf 205.00 506.00 Td (Stack: React, Redux, Chart.js, Material UI) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 10.20 Tf 205.00 480.00 Td (Freelance \227 Desarrollador Fullstack) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 8.40 Tf 205.00 466.00 Td (Noviembre 2017 \226 Actualidad | Remoto) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 451.00 Td (Entregu\351 sitios y aplicaciones en producci\363n para clientes, estandarizando patrones) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 440.00 Td (reutilizables de desarrollo y despliegue.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 426.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 426.00 Td (Entregu\351 m\341s de 20 proyectos para clientes usando React, Django, Node.js y) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 414.50 Td (WordPress, con 100% de entregas a tiempo y m\341s de 95% de satisfacci\363n.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 400.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 400.00 Td (Reduje el tiempo promedio de entrega en 25% mediante arquitectura de componentes) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 388.50 Td (reutilizables y flujos de despliegue estandarizados.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 374.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 374.00 Td (Dise\361\351 prototipos UI en Figma y los convert\355 en interfaces web precisas y) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 362.50 Td (adaptadas a m\372ltiples dispositivos.) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 8.35 Tf 205.00 348.00 Td (-) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 348.00 Td (Asesor\351 a clientes en arquitectura escalable y estrategias de despliegue,) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.35 Tf 216.00 336.50 Td (reduciendo costos de mantenimiento a largo plazo.) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 7.80 Tf 205.00 322.00 Td (Stack: React, Django, Node.js, WordPress, Figma) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 10.50 Tf 205.00 300.00 Td (HABILIDADES T\311CNICAS) Tj ET
+0.820 0.780 0.700 RG
+0.75 w 205.00 293.00 m 553.00 293.00 l S
+0.100 0.120 0.140 rg
+BT /F2 8.80 Tf 205.00 276.00 Td (Frontend & UI) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 264.00 Td (React.js, React Native, Angular, Next.js, Vue.js, Tailwind CSS, Material UI, Styled) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 253.50 Td (Components, Redux, Figma, HTML, CSS) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 8.80 Tf 205.00 238.00 Td (Lenguajes) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 226.00 Td (JavaScript, TypeScript, Python, Java, PHP, Ruby) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 8.80 Tf 205.00 210.50 Td (Backend & APIs) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 198.50 Td (Node.js, Django, Laravel, Prisma, Better Auth, GraphQL, REST APIs, Flujos de) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 188.00 Td (autenticaci\363n) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 8.80 Tf 205.00 172.50 Td (Bases de datos) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 160.50 Td (PostgreSQL, MongoDB, Supabase, SQL, SQLite) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 8.80 Tf 205.00 145.00 Td (DevOps & Cloud) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 133.00 Td (Git, Docker, AWS, GitHub Actions, CI/CD) Tj ET
+0.100 0.120 0.140 rg
+BT /F2 8.80 Tf 205.00 117.50 Td (Ingenier\355a IA & Developer Tooling) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 105.50 Td (OpenCode, Codex, Modelos de IA para c\363digo, Agentes de IA, MCP, Flujos con skills,) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.10 Tf 205.00 95.00 Td (GitHub Copilot Pro, Gemini CLI, Perplexity Pro, Postman, Jira, Power BI, Tableau) Tj ET
+0.773 0.608 0.384 rg
+BT /F2 10.50 Tf 205.00 75.50 Td (EDUCACI\323N E IDIOMAS) Tj ET
+0.820 0.780 0.700 RG
+0.75 w 205.00 68.50 m 553.00 68.50 l S
+0.100 0.120 0.140 rg
+BT /F2 8.90 Tf 205.00 51.50 Td (Ingenier\355a en Computaci\363n \227 Universidad Jos\351 Antonio P\341ez) Tj ET
+0.420 0.450 0.470 rg
+BT /F1 8.30 Tf 205.00 38.50 Td (Valencia, Venezuela \267 Junio 2020) Tj ET
+0.100 0.120 0.140 rg
+BT /F1 8.50 Tf 205.00 20.50 Td (Espa\361ol: Nativo \267 Ingl\351s: Avanzado \(C1\)) Tj ET
+0.420 0.450 0.470 rg
+BT /F2 8.00 Tf 512.00 28.00 Td (2) Tj ET
+0.860 0.840 0.790 RG
+0.50 w 205.00 39.00 m 553.00 39.00 l S
 endstream
 endobj
 7 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
 xref
-0 8
+0 9
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000121 00000 n 
-0000000247 00000 n 
-0000003752 00000 n 
-0000003878 00000 n 
-0000004386 00000 n 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000008710 00000 n 
+0000008846 00000 n 
+0000017512 00000 n 
+0000017609 00000 n 
 trailer
-<< /Size 8 /Root 1 0 R >>
+<< /Size 9 /Root 1 0 R >>
 startxref
-4483
+17711
 %%EOF

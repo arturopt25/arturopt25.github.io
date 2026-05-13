@@ -8,14 +8,14 @@ GitHub: https://github.com/arturopt25
 
 ## Resumen Profesional
 
-Ingeniero en Computación con más de 8 años de experiencia en desarrollo web y entrega de proyectos. Me especializo en desarrollo fullstack con fuerte orientación frontend usando React, React Native, Node.js, Django, PostgreSQL, MongoDB y Supabase, combinando criterio de producto, ejecución UI cuidada y arquitectura pragmática. He liderado equipos distribuidos, construido módulos SaaS y plataformas para clientes, e integro herramientas de IA para acelerar implementación, documentación y toma de decisiones técnicas.
+Ingeniero en Computación con más de 8 años de experiencia en desarrollo web y entrega de proyectos. Me especializo en desarrollo fullstack con fuerte orientación frontend usando React, React Native, Node.js, Django, PostgreSQL, MongoDB, Supabase, Prisma y Better Auth, combinando criterio de producto, ejecución UI cuidada y arquitectura pragmática. Uso modelos de IA para código, agentes, servidores MCP y flujos basados en skills con herramientas como OpenCode y Codex para acelerar implementación, debugging, documentación y toma de decisiones técnicas manteniendo control de ingeniería.
 
 ## Fortalezas Clave
 
 - **Sistemas frontend con calidad de producto:** Interfaces responsivas y accesibles con React, Angular, Tailwind CSS, Material UI y patrones component-driven.
-- **Arquitectura fullstack:** APIs confiables, bases de datos relacionales y documentales, flujos conscientes de autenticación y decisiones backend listas para producción.
+- **Arquitectura fullstack:** APIs confiables, modelado de datos con Prisma, bases de datos relacionales y documentales, flujos de autenticación con Better Auth y decisiones backend listas para producción.
 - **Liderazgo de entrega:** Coordinación de equipos remotos, hitos técnicos alineados con negocio, KPIs y ejecución ágil.
-- **Flujo de trabajo potenciado por IA:** GitHub Copilot Pro, Gemini CLI y Perplexity Pro para código, investigación, documentación e iteración.
+- **Ingeniería asistida por IA:** Modelos de IA para código, agentes, MCP y flujos basados en skills con OpenCode, Codex, GitHub Copilot y Gemini CLI para acelerar entregas sin sacrificar revisión técnica ni control arquitectónico.
 
 ## Experiencia Profesional
 
@@ -25,8 +25,8 @@ Ingeniero en Computación con más de 8 años de experiencia en desarrollo web y
 
 - Arquitecté y desarrollé más de 4 módulos SaaS centrales para múltiples roles, reduciendo el tiempo de trabajo manual en aproximadamente 30%.
 - Construí interfaces responsivas y de alto rendimiento con Tailwind CSS, mejorando la consistencia visual de la plataforma.
-- Reduje el tiempo de iteración de desarrollo en cerca de 40% integrando GitHub Copilot Pro, Gemini CLI y Perplexity Pro en flujos diarios de código y documentación.
-- Diseñé arquitectura de datos con PostgreSQL y Supabase para soportar crecimiento seguro y escalable del producto.
+- Reduje el tiempo de iteración de desarrollo en cerca de 40% integrando OpenCode, Codex, GitHub Copilot, Gemini CLI, agentes de IA, MCP y flujos basados en skills en rutinas diarias de código, debugging y documentación.
+- Diseñé bases backend con PostgreSQL, Supabase, Prisma y Better Auth para soportar acceso escalable a datos, autenticación segura y crecimiento del producto.
 
 ### Alberta TechWorks — Desarrollador Fullstack & Project Manager
 
@@ -59,10 +59,10 @@ Ingeniero en Computación con más de 8 años de experiencia en desarrollo web y
 
 - **Frontend & UI:** React.js, React Native, Angular, Next.js, Vue.js, Tailwind CSS, Material UI, Styled Components, Redux, Figma, HTML, CSS
 - **Lenguajes:** JavaScript, TypeScript, Python, Java, PHP, Ruby
-- **Backend & APIs:** Node.js, Django, Laravel, GraphQL, REST APIs
+- **Backend & APIs:** Node.js, Django, Laravel, Prisma, Better Auth, GraphQL, REST APIs, Flujos de autenticación
 - **Bases de datos:** PostgreSQL, MongoDB, Supabase, SQL, SQLite
 - **DevOps & Cloud:** Git, Docker, AWS, GitHub Actions, CI/CD
-- **IA & Productividad:** GitHub Copilot Pro, Gemini CLI, Perplexity Pro, Postman, Jira, Power BI, Tableau
+- **Ingeniería IA & Developer Tooling:** OpenCode, Codex, Modelos de IA para código, Agentes de IA, MCP, Flujos con skills, GitHub Copilot Pro, Gemini CLI, Perplexity Pro, Postman, Jira, Power BI, Tableau
 
 ## Educación
 

@@ -8,14 +8,14 @@ GitHub: https://github.com/arturopt25
 
 ## Professional Summary
 
-Computer Engineer with 8+ years of experience in web development and project delivery. I specialize in frontend-leaning fullstack work across React, React Native, Node.js, Django, PostgreSQL, MongoDB, and Supabase, combining product thinking, clean UI execution, and pragmatic architecture. I have led distributed teams, shipped SaaS modules and client platforms, and actively integrate AI tools to accelerate implementation, documentation, and technical decision-making.
+Computer Engineer with 8+ years of experience in web development and project delivery. I specialize in frontend-leaning fullstack work across React, React Native, Node.js, Django, PostgreSQL, MongoDB, Supabase, Prisma, and Better Auth, combining product thinking, clean UI execution, and pragmatic architecture. I actively use AI coding models, agents, MCP servers, and skill-based workflows with tools such as OpenCode and Codex to accelerate implementation, debugging, documentation, and technical decision-making while maintaining engineering control.
 
 ## Core Strengths
 
 - **Frontend systems with product polish:** Responsive, accessible interfaces with React, Angular, Tailwind CSS, Material UI, and component-driven patterns.
-- **Fullstack architecture:** Reliable APIs, relational and document databases, authentication-aware flows, and deployment-ready backend decisions.
+- **Fullstack architecture:** Reliable APIs, Prisma-backed data modeling, relational and document databases, Better Auth authentication flows, and deployment-ready backend decisions.
 - **Delivery leadership:** Remote team coordination, technical milestones aligned with business goals, KPIs, and agile execution.
-- **AI-enabled workflow:** GitHub Copilot Pro, Gemini CLI, and Perplexity Pro for coding, research, documentation, and iteration.
+- **AI-assisted engineering:** AI coding models, agents, MCP, and skill-based workflows with OpenCode, Codex, GitHub Copilot, and Gemini CLI to accelerate delivery without sacrificing review discipline or architectural control.
 
 ## Professional Experience
 
@@ -25,8 +25,8 @@ Computer Engineer with 8+ years of experience in web development and project del
 
 - Architected and developed 4+ core SaaS modules serving multiple roles, reducing manual workflow time by an estimated 30%.
 - Built responsive, high-performance interfaces with Tailwind CSS, improving UI consistency across the platform.
-- Reduced development iteration time by roughly 40% by integrating GitHub Copilot Pro, Gemini CLI, and Perplexity Pro into daily coding and documentation workflows.
-- Designed PostgreSQL and Supabase database architecture to support scalable and secure product growth.
+- Reduced development iteration time by roughly 40% by integrating OpenCode, Codex, GitHub Copilot, Gemini CLI, AI agents, MCP, and skill-based workflows into daily coding, debugging, and documentation routines.
+- Designed PostgreSQL, Supabase, Prisma, and Better Auth backend foundations to support scalable data access, secure authentication, and product growth.
 
 ### Alberta TechWorks — Fullstack Developer & Project Manager
 
@@ -59,10 +59,10 @@ Computer Engineer with 8+ years of experience in web development and project del
 
 - **Frontend & UI:** React.js, React Native, Angular, Next.js, Vue.js, Tailwind CSS, Material UI, Styled Components, Redux, Figma, HTML, CSS
 - **Languages:** JavaScript, TypeScript, Python, Java, PHP, Ruby
-- **Backend & APIs:** Node.js, Django, Laravel, GraphQL, REST APIs
+- **Backend & APIs:** Node.js, Django, Laravel, Prisma, Better Auth, GraphQL, REST APIs, Authentication flows
 - **Databases:** PostgreSQL, MongoDB, Supabase, SQL, SQLite
 - **DevOps & Cloud:** Git, Docker, AWS, GitHub Actions, CI/CD
-- **AI & Productivity:** GitHub Copilot Pro, Gemini CLI, Perplexity Pro, Postman, Jira, Power BI, Tableau
+- **AI Engineering & Developer Tooling:** OpenCode, Codex, AI coding models, AI agents, MCP, Skill workflows, GitHub Copilot Pro, Gemini CLI, Perplexity Pro, Postman, Jira, Power BI, Tableau
 
 ## Education
 

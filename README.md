@@ -22,7 +22,8 @@ Lightweight personal CV built with HTML, CSS, and vanilla JavaScript for GitHub 
 │   ├── cv.en.json
 │   └── cv.es.json
 ├── assets/
-│   ├── avatar-placeholder.svg
+│   ├── favicon.svg
+│   ├── portrait.jpeg
 │   ├── victor-parra-cv.en.md
 │   ├── victor-parra-cv.es.md
 │   ├── victor-parra-cv.en.pdf
@@ -67,18 +68,18 @@ Both files should keep the same top-level structure:
 
 Routine updates should not require changes to `index.html`.
 
-## Replacing the Avatar
+## Profile Image
 
-The current avatar is a placeholder:
+The current profile image is:
 
 ```text
-assets/avatar-placeholder.svg
+assets/portrait.jpeg
 ```
 
 To replace it later:
 
 1. Add the final image to `assets/`.
-2. Update the `src` used in `script.js` or replace the placeholder file with the final optimized SVG/WebP asset.
+2. Update the `src` used in `script.js` or replace the current optimized asset.
 3. Keep the image lightweight for GitHub Pages performance.
 
 ## Updating Downloads
